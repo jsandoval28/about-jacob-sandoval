@@ -3,3 +3,13 @@ p {color: black;}
 body {
     background-color: rgb(105, 250, 158)
 }
+
+p {
+    font-size: 20px;
+}
+
+.hooray {
+    width: 250px;
+    height: 200px;
+    margin-bottom: 10px;
+}
